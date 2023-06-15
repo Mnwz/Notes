@@ -7,7 +7,7 @@
     Criar uma nova nota
     Editar o conteúdo da nota
     Excluir uma nota
-    Salvar automaticamente as notas no armazenamento local do navegador
+    Salvar automaticamente as notas no cache do navegador
 
 <h2> Tecnologias Utilizadas </h2>
 
@@ -29,7 +29,7 @@
     Create a new note
     Edit the content of a note
     Delete a note
-    Automatically save notes to local browser storage
+    Automatically save notes to browser cache
 
 <h2>Technologies Used</h2>
 
