@@ -18,6 +18,8 @@
     
     
     
+    ========================================== //// ========================================================
+    
 <h1> Notes </h1>
 
 <h3>This is a simple note-taking project developed using HTML, CSS, and JavaScript. It allows you to create, edit, and delete notes within a web browser environment. </h3>
