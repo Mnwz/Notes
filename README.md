@@ -1,6 +1,6 @@
 <h1> Notas </h1>
 
-<h2> Este é um projeto simples de notas desenvolvido em HTML, CSS e JavaScript. Ele permite que você crie, edite e exclua notas em um ambiente de navegador. </h2>
+<h3> Este é um projeto simples de notas desenvolvido em HTML, CSS e JavaScript. Ele permite que você crie, edite e exclua notas em um ambiente de navegador. </h3>
 
   <h2>Funcionalidades do Projeto </h2>
 
@@ -20,7 +20,7 @@
     
 <h1> Notes </h1>
 
-<h2>This is a simple note-taking project developed using HTML, CSS, and JavaScript. It allows you to create, edit, and delete notes within a web browser environment. </h2>
+<h3>This is a simple note-taking project developed using HTML, CSS, and JavaScript. It allows you to create, edit, and delete notes within a web browser environment. </h3>
 
 <h2>Project Features</h2>
 
